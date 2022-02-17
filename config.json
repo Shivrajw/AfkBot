@@ -1,5 +1,9 @@
 {
 	"ip":"PigLifeStealSmp.aternos.me",
 	"port": 41547,
-	"name":  RoyalBot",
-	
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register AfkBot",
+	"login-cmd":"/login AfkBot"
+}
